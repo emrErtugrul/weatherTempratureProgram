@@ -1,9 +1,13 @@
 # weatherTempratureProgram
 
 import java.util.Scanner;
+
 class Main {
+
     public static void main(String[] args) {
+    
         Scanner inp= new Scanner(System.in);
+        
         int hava;
 
         System.out.println("Lütfen Hava Sıcaklığını Giriniz: " );
